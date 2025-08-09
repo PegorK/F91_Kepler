@@ -32,7 +32,3 @@ This repo contains all the firmware, hardware, and completely unfinished softwar
 <p align="center">
   <img src="Hardware/images/text_from.jpg" alt="Text From Sample" width="500"/>
 </p>
-
-
-### Contact
-devPegor@gmail.com
