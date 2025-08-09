@@ -1,5 +1,5 @@
 # F91 Kepler
-
+## 8/8/25 - This project hasn't been active for a while, but I have kept it around for anyone interested in it or wants to draw inspiration from it. I have moved it from its [original repo](https://gitlab.com/_Pegor/kepler_fw) since I use GitHub more these days. 
 <p align="center">
   <img src="Hardware/images/main.jpg" alt="Main view" width="600"/>
 </p>
